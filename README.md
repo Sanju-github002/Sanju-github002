@@ -18,7 +18,7 @@ hi, i'm [Sanju], I am an Undergraduate pursuing B.Tech (ECE) from IGDTUW. I am a
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
   
 - 💌 How to reach me, [email](anutanwer12@gmail.com) ✨. 
 - 💬 ask me about anything, i am happy to help;
