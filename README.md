@@ -15,7 +15,7 @@
 
 Hi, i'm [Sanju], I am an Undergraduate pursuing B.Tech (ECE) from IGDTUW. I am a coding enthusiast as I have 5⭐ on Hackerrank and 3⭐ on Codechef and I am also enthusiast of Web Development or Web Designing in Front End. I also have interest in Cyber Security as want be a Ethical Hacker. I am also like to Play different sports in my free time.
 
-i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
