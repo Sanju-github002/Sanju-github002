@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/Sanju95444263">
   <img align="left" alt="Sanju | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -13,7 +13,7 @@
 
 <br />
 
-hi, i'm [Sanju], I am an Undergraduate pursuing B.Tech (ECE) from IGDTUW. I am a coding enthusiast as I have 5⭐ on Hackerrank and 2⭐ on Codechef and I am also enthusiast of Web Development or Web Designing in Front End. I also have interest in Cyber Security as want be a Ethical Hacker. I am also like to Play different sports in my free time.
+Hi, i'm [Sanju], I am an Undergraduate pursuing B.Tech (ECE) from IGDTUW. I am a coding enthusiast as I have 5⭐ on Hackerrank and 3⭐ on Codechef and I am also enthusiast of Web Development or Web Designing in Front End. I also have interest in Cyber Security as want be a Ethical Hacker. I am also like to Play different sports in my free time.
 
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -35,7 +35,7 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  64 Karma Points           
-🌸  Completed 0 tasks today           
+🌸  Completed 3 tasks today           
 ✅  Completed 150 tasks so far           
 ⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
