@@ -4,29 +4,24 @@
   </a>
 </h1>
 
-## You can find me here 🔎
-<code>
-    <a href="https://www.linkedin.com/in/sanju-515027205/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"> LinkedIn</a></code>
-<code><a href="https://twitter.com/Sanju95444263" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> Twitter</a></code>
-<code><a href="https://instagram.com/sanju34300" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
-<code><a href="https://www.leetcode.com/sanju_12/" title="LeetCode Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> LeetCode</a></code>
-<code><a href="https://www.codechef.com/users/sanju_1203" title="CodeChef Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"> CodeChef</a></code>
-<code><a href="https://www.hackerrank.com/sanju037btece20" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"> HackerRank</a></code>
-
-
-
+## Connect Me Here 👀 <a href="https://www.linkedin.com/in/tanyarajhans/"><img align="left" width="150" height="146" src="https://octodex.github.com/images/hula_loop_octodex03.gif"></a>
+- Active on <a href="https://leetcode.com/Sanju_12/">LeetCode</a> 😍
+- Sharing updates on <a href="https://www.linkedin.com/in/sanju001/">LinkedIn</a> 😇
+- Chilling on <a href="https://twitter.com/Sanju_120"> Twitter</a> 💝
+- Learning lit bit on <a href="https://www.codechef.com/users/sanju_1203"> CodeChef</a>🙃
 <br />
-<br />
-
 Hi, i'm Sanju, I am an Undergraduate pursuing B.Tech (ECE) from IGDTUW. I am a coding enthusiast, coding became my passion and it give me a reason to go into the tech world and explore more also solve some real-world problems to help my society and I am also enthusiast of Full Stack Web Development or Web Designing. I also have interest in Cyber Security and I want to explore this field more 🚀 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source communities. Upcoming time I am also planing to start an open source community ⭐.
 
   
 - 💌 How to reach me, [email](anutanwer12@gmail.com) ✨. 
 - 💬 ask me about anything, I am happy to help :)
 
-<div align="center"><img with="460px" height="340px" src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif"></div>
+<div align="center"><img with="460px" height="340px" src="https://octodex.github.com/images/nyantocat.gif"></div>
 
-**languages and tools:**  
+<br />
+
+
+## languages and tools:
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
