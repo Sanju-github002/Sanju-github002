@@ -4,7 +4,8 @@
   </a>
 </h1>
 
-## Connect Me Here 👀 <a href="https://www.linkedin.com/in/tanyarajhans/"><img align="left" width="150" height="146" src="https://octodex.github.com/images/hula_loop_octodex03.gif"></a>
+<a href="https://www.linkedin.com/in/tanyarajhans/"><img align="center" width="150" height="146" src="https://octodex.github.com/images/hula_loop_octodex03.gif"></a>
+## Connect Me Here 👀
 - Active on <a href="https://leetcode.com/Sanju_12/">LeetCode</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/sanju001/">LinkedIn</a> 😇
 - Chilling on <a href="https://twitter.com/Sanju_120"> Twitter</a> 💝
